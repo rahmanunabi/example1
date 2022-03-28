@@ -1,0 +1,83 @@
+#a {
+  margin-left: 250px;
+  position: fixed;
+  top: 70px;
+}
+#b {
+  position: fixed;
+  top: 70px;
+  text-align: center;
+  margin-left: 700px;
+  width: 350px;
+  /* margin-right: 100px; */
+  height: 400px;
+}
+h1 {
+  font-family: "Hurricane", cursive;
+  font-size: 50px;
+}
+input {
+  width: 70%;
+  height: 8%;
+  box-shadow: 10px 10px 10px black;
+}
+#g {
+  background-color: rgb(26, 113, 184);
+  border-radius: 10px;
+  width: 71%;
+  height: 7%;
+  box-shadow: 10px 10px 10px black;
+}
+#c {
+  color: blue;
+}
+#e {
+  position: fixed;
+  top: 500px;
+  text-align: center;
+  margin-left: 700px;
+  width: 350px;
+  /* margin-right: 100px; */
+  height: 50px;
+}
+#f {
+  position: fixed;
+  text-align: center;
+  top: 580px;
+  text-align: center;
+  margin-left: 860px;
+  /* width: 350px; */
+  /* margin-right: 100px; */
+  /* height: 50px; */
+}
+#h {
+  position: fixed;
+  text-align: center;
+  top: 630px;
+  text-align: center;
+  margin-left: 900px;
+  background-color: black;
+  color: bisque;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px black;
+}
+#i {
+  position: fixed;
+  text-align: center;
+  top: 630px;
+  text-align: center;
+  margin-left: 780px;
+  background-color: black;
+  color: bisque;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px black;
+}
+li {
+  display: inline-block;
+  margin: 10px;
+}
+#o {
+  margin-left: 250px;
+  position: fixed;
+  top: 700px;
+}
